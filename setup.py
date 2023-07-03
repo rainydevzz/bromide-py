@@ -10,7 +10,7 @@ setuptools.setup(
     description='A Sync/Async API Wrapper for SodiumDB.',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='',
+    url='https://github.com/sodium-db/bromide-py',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
